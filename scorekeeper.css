@@ -1,0 +1,53 @@
+.winner {
+	color: #9B287B;
+	text-shadow: 3px 3px 3px #170F11;
+}
+
+body {
+	background-color: #402039;
+}
+
+#header {
+	font-family: "pacifico", cursive;
+	color: #E2FCEF;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 5px 5px 5px #9B287B;
+}
+
+#score-board {
+	background-color: #E2FCEF;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	outline: 4px solid #5C164E;
+	outline-offset: -30px;
+	box-shadow: 5px 5px 5px #9B287B;
+	font-family: "Quicksand", sans-serif;
+}
+
+#score-board h1 {
+	font-size: 50px;
+	color: #5C164E;
+}
+
+#score-board p {
+	font-size: 20px;
+	color: #402039;
+}
+
+#score-board input {
+	padding: 10px;
+	border: 4px solid #5C164E;
+	background-color: #E2FCEF;
+	border-radius: 10%;
+}
+
+#score-board button {
+	padding: 10px;
+	border-radius: 10%;
+	border: 4px solid #5C164E;
+	background-color: #E2FCEF;
+}
